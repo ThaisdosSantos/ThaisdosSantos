@@ -21,6 +21,8 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="ThaisdosSantos-figma" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    </div>
+
   
     
  ##
@@ -28,6 +30,7 @@
   <a href="https://www.linkedin.com/in/thais-dos-santos-9858701b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>.
    <a href = "mailto:thaisds2.aluno@unipampa.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-</div>
+     ![Snake animation](https://github.com/ThaisdosSantos/ThaisdosSantos/blob/output/github-contribution-grid-snake.svg)
+
             
 </div>
